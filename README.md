@@ -56,7 +56,7 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/suhail-khan-292025290/)  
+- LinkedIn: [https://www.linkedin.com/in/suhail-khan-292025290/](https://www.linkedin.com/in/suhail-khan-292025290/)  
 - Email: [suhailkhna786@gmail.com](mailto:suhailkhna786@gmail.com)
 
 ---
@@ -66,9 +66,3 @@
 I enjoy turning complex ideas into simple, scalable products 🚀
 
 ---
-
-## How to customize
-1. Replace [Your Name] with your full name or handle.  
-2. Update project sections with repository links and short demo GIFs/screenshots if available.  
-3. Replace LinkedIn and email placeholders with your real contact links.  
-4. Commit this file to your profile repository (repo named the same as your GitHub username) so it appears on your profile.
